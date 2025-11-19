@@ -1,8 +1,8 @@
-###🐶🥞 Chihuahua or Muffin? — Image Classification with Teachable Machine
+# 🐶🥞 Chihuahua or Muffin? — Image Classification with Teachable Machine
 
 A lighthearted take on one of AI’s most iconic meme challenges
 
-📌 Overview
+## 📌 Overview
 
 This project is a simple yet entertaining image classifier that identifies whether an image contains a Chihuahua or a Muffin—inspired by Karen Zack’s viral “Animals vs. Food” series and the classic meme that confused humans and AI alike.
 
@@ -10,7 +10,7 @@ Built using Google’s Teachable Machine, this model demonstrates how approachab
 
 ---
 
-##🎯 Project Goals
+## 🎯 Project Goals
 
 -Show how Teachable Machine can be used to rapidly prototype image classification models
 -Recreate the iconic “Chihuahua vs. Muffin” experiment
@@ -19,9 +19,18 @@ Built using Google’s Teachable Machine, this model demonstrates how approachab
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 -Teachable Machine (Image Model)
 -TensorFlow.js for the web-based model
 -HTML + JavaScript demo interface
 -Optional Node-compatible model export# teachablemachine
+
+---
+
+## Sharable link
+<ol>
+   <ul>
+      <pre><code>https://teachablemachine.withgoogle.com/models/4Yfqt_Fo3/</code></pre>
+   </ul>
+</ol>
