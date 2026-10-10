@@ -1,4 +1,4 @@
-# 🐶🥞 Chihuahua or Muffin? 
+# 🐶🥞 Chihuahua or Muffin?
 # Image Classification with Teachable Machine
 
 A lighthearted take on one of AI’s most iconic meme challenges with a trained model
