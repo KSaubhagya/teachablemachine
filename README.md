@@ -14,7 +14,7 @@ Built using Google’s Teachable Machine, this model demonstrates how approachab
 ## 🎯 Project Goals
 
 -Show how Teachable Machine can be used to prototype image classification models
--Recreate the iconic “Chihuahua vs. Muffin” experiment
+-Recreate the iconic “ Chihuahua vs. Muffin ” experiment
 -Demonstrate AI’s perception challenges in ambiguous visual tasks
 -Provide an easy-to-run demo for educational and model training purposes
 
