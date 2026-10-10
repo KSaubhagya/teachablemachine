@@ -7,7 +7,7 @@ A lighthearted take on one of AI’s most iconic meme challenges with a trained 
 
 This project is a simple image classifier that identifies whether an image contains a Chihuahua or a Muffin—inspired by Karen Zack’s viral “Animals vs. Food” series and the classic meme that confused humans and AI alike using teachable machine image model training
 
-Built using Google’s Teachable Machine, this model demonstrates how approachable machine learning has become, even for quirky and ambiguous tasks that once highlighted AI’s limitations. With renewed attention from discussions like Andreessen Horowitz’s recent AI presentations, the Chihuahua or Muffin problem remains a fun example of how far AI has come—and how far it still has to go.
+Built using Google’s Teachable Machine, this model demonstrates how approachable machine learning has become, even for quirky and ambiguous tasks that once highlighted AI’s limitations. With renewed attention from discussions like Andreessen Horowitz’s recent AI presentations, the Chihuahua or Muffin problem remains a fun example of how far AI has come—and how far it still has to go
 
 ---
 
